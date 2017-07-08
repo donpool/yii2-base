@@ -2,7 +2,7 @@
     "name": "donpool/yii2-base",
     "description": "Yii 2 Base",
     "keywords": ["yii2", "framework", "base", "project template"],
-    "homepage": " https://www.paulbernal.com/general/yii2-base-template/",
+    "homepage": "https://www.paulbernal.com/general/yii2-base-template/",
     "type": "project",
     "license": "WTFPL v2",
     "support": {
